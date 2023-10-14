@@ -1,6 +1,6 @@
 # Git demo Clayton Marsh
 
-Actually learning git
+Actually learning git!!!!!!!!!!!!!!!!!!!!!!!!!
 
 Gonna learn some cool stuff
 
@@ -10,3 +10,6 @@ Gonna learn some cool stuff
 - git push
 - git clone
 - git push
+
+## Kool stuff
+- learning branching
