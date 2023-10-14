@@ -1,3 +1,3 @@
-#Git demo Clayton Marsh
+# Git demo Clayton Marsh
 
 Actually learning git
